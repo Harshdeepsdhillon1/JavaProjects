@@ -1,0 +1,3 @@
+public enum Brand {
+    ALDO, ADIDAS, NIKE, SKECHERS, PUMA, CLARKS, REEBOK, VANS, UNDER_ARMOR
+}
